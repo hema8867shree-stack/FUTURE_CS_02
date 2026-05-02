@@ -1,0 +1,28 @@
+EMAIL 1
+Subject: Urgent: Your Account Will Be Locked
+
+Dear User,
+We noticed suspicious activity on your account.
+Click here immediately to verify:
+http://secure-account-verify.com
+
+If not verified in 24 hours, your account will be locked.
+
+---
+
+EMAIL 2
+Subject: Congratulations You Won a Prize
+
+Dear Customer,
+You have won a lottery prize. To claim, submit your bank details and OTP.
+
+Click: http://claim-reward-now.com
+
+---
+
+EMAIL 3
+Subject: Password Reset Required
+
+Dear User,
+We detected unusual login activity. Reset your password immediately:
+http://bank-reset-login.com
