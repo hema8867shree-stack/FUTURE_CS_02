@@ -24,5 +24,6 @@ EMAIL 3
 Subject: Password Reset Required
 
 Dear User,
-We detected unusual login activity. Reset your password immediately:
-http://bank-reset-login.com
+We detected unusual login activity. 
+Reset your password immediately,
+ Click: http://bank-reset-login.com
